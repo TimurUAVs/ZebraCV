@@ -1,0 +1,9 @@
+train: C:/Users/amir/Desktop/Zebra/dataset/train/images
+test: C:/Users/amir/Desktop/Zebra/dataset/test/images
+val: C:/Users/amir/Desktop/Zebra/dataset/val/images
+names:
+   0: clean
+   1: any
+   2: soup
+   3: salad
+   4: steak
